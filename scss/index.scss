@@ -1,0 +1,6 @@
+@import "variables"; //import this on each scss page you create
+
+#index_page {
+    min-height: 100vh;
+    background-color: $color_primary;
+}
